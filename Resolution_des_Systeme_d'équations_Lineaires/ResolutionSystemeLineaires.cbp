@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ResolutionSystemeLineaires" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ResolutionSystemeLineaires" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ResolutionSystemeLineaires" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AfficheMatReelle.cpp" />
+		<Unit filename="AfficheTabReel.cpp" />
+		<Unit filename="Cholesky.cpp" />
+		<Unit filename="DecompositionLU.cpp" />
+		<Unit filename="FreeMatReelle.cpp" />
+		<Unit filename="FreeTabEntier.cpp" />
+		<Unit filename="FreeTabReel.cpp" />
+		<Unit filename="Gauss.cpp" />
+		<Unit filename="GaussJordan.cpp" />
+		<Unit filename="GaussPivotPartiel.cpp" />
+		<Unit filename="GaussPivotTotal.cpp" />
+		<Unit filename="GaussSeidel.cpp" />
+		<Unit filename="Jacobi.cpp" />
+		<Unit filename="MatReelle.cpp" />
+		<Unit filename="NormeInfinieDiff.cpp" />
+		<Unit filename="RecopieMat.cpp" />
+		<Unit filename="RecopieTab.cpp" />
+		<Unit filename="RemplissageTabReel.cpp" />
+		<Unit filename="RemplissgeMatReelle.cpp" />
+		<Unit filename="SOR.cpp" />
+		<Unit filename="SubstitutionArriere.cpp" />
+		<Unit filename="SubstitutionAvant.cpp" />
+		<Unit filename="TabEntier.cpp" />
+		<Unit filename="TabReel.cpp" />
+		<Unit filename="donnees.txt" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

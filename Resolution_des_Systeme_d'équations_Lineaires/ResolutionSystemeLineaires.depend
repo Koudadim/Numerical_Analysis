@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1651705045 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\freematreelle.cpp
+	<iostream>
+
+1651704753 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\freetabreel.cpp
+	<iostream>
+
+1653732930 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\gauss.cpp
+	<iostream>
+	<math.h>
+
+1651711134 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\matreelle.cpp
+	<iostream>
+
+1652180334 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\permutation.cpp
+	<iostream>
+
+1651711096 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\saisiematreelle.cpp
+	<iostream>
+
+1651710983 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\saisietabreel.cpp
+	<iostream>
+
+1651704056 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\tabreel.cpp
+	<iostream>
+
+1653740384 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\main.cpp
+	<iostream>
+	<string>
+
+1653081957 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\affichetabreel.cpp
+	<iostream>
+
+1651714726 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\affichematreelle.cpp
+	<iostream>
+
+1653732911 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\gausspivotpartiel.cpp
+	<iostream>
+	<math.h>
+
+1652031266 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\tabentier.cpp
+	<iostream>
+
+1653740582 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\gausspivottotal.cpp
+	<iostream>
+	<math.h>
+
+1652033611 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\freetabentier.cpp
+	<iostream>
+
+1653075917 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\remplissagematreelle.c
+	<stdio.h>
+	<stdlib.h>
+
+1653075944 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\remplissagetabreel.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1653078377 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\remplissgematreelle.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1653170651 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\tracer.cpp
+	<iostream>
+
+1653739521 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\gaussjordan.cpp
+	<iostream>
+
+1653405503 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\decompositionlu.cpp
+	<iostream>
+
+1653399707 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\substitutionarriere.cpp
+	<iostream>
+
+1653399094 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\substitutionavant.cpp
+	<iostream>
+
+1653404657 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\cholesky.cpp
+	<iostream>
+	<math.h>
+
+1653688503 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\normeinfiniediff.cpp
+	<math.h>
+
+1653740894 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\gaussseidel.cpp
+	<iostream>
+
+1653737216 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\jacobi.cpp
+	<iostream>
+
+1653740832 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\sor.cpp
+	<iostream>
+
+1653736150 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\recopiemat.cpp
+	<iostream>
+
+1653736553 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\resolutionsystemelineaires\recopietab.cpp
+	<iostream>
+

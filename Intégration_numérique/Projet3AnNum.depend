@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1649859214 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\creertabreel.c
+	<stdio.h>
+
+1649871927 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\tabreel.c
+	<stdio.h>
+
+1649884893 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649883628 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\approximation.c
+	<stdio.h>
+
+1649867400 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\trapeze.c
+	<stdio.h>
+
+1649867420 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\simpson.c
+	<stdio.h>
+
+1649867540 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f1.c
+	<stdio.h>
+	<math.h>
+
+1649867603 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f2.c
+	<stdio.h>
+
+1649868401 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f3.c
+	<stdio.h>
+	<math.h>
+
+1649868401 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f4.c
+	<stdio.h>
+
+1649868401 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f5.c
+	<stdio.h>
+
+1649867901 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f6.c
+	<stdio.h>
+
+1649867867 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f8.c
+	<stdio.h>
+	<math.h>
+
+1649868487 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet3annum\f7.c
+	<stdio.h>
+	<math.h>
+

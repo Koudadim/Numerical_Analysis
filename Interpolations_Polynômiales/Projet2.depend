@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1648229851 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648213033 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\affichetabreel.c
+	<stdio.h>
+	<stdlib.h>
+
+1648211438 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\tabreel.c
+	<stdio.h>
+	<stdlib.h>
+
+1648215632 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\abscissecalcule.c
+	<stdio.h>
+	<stdlib.h>
+
+1648200602 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\fonctions.c
+	<stdio.h>
+	<math.h>
+
+1648202252 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\f1.c
+	<stdio.h>
+	<math.h>
+
+1648202425 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\f2.c
+	<stdio.h>
+	<math.h>
+
+1648202271 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\f3.c
+	<stdio.h>
+	<math.h>
+
+1648202364 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\f4.c
+	<stdio.h>
+	<math.h>
+
+1648202398 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\f5.c
+	<stdio.h>
+	<math.h>
+
+1648216532 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\ordonneecalcule.c
+	<stdio.h>
+	<stdlib.h>
+
+1648208167 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\langrange.c
+	<stdio.h>
+
+1648210315 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\matricecarredouble.c
+	<stdlib.h>
+	<stdio.h>
+
+1648210315 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\tabdouble.c
+	<stdio.h>
+	<stdlib.h>
+
+1648210485 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\aitken.c
+	<stdio.h>
+	<stdlib.h>
+
+1648210633 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\newton.c
+	<stdio.h>
+	<stdlib.h>
+
+1648228768 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet2\calculvalpolynome.c
+	<stdio.h>
+	<stdlib.h>
+

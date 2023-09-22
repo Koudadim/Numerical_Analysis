@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1646389409 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\dichotomie.c
+	<stdio.h>
+	<stdlib.h>
+
+1646739610 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646399486 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\pointfixe.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1646350970 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\secante.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1646412422 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\newton.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1646388007 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f1.c
+	<stdio.h>
+	<math.h>
+
+1646401838 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f1nde.c
+	<stdio.h>
+	<math.h>
+
+1646388113 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f2.c
+	<stdio.h>
+	<math.h>
+
+1646388153 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f2nde.c
+	<stdio.h>
+	<math.h>
+
+1646388217 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f3.c
+	<stdio.h>
+	<math.h>
+
+1646489685 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f3nde.c
+	<stdio.h>
+	<math.h>
+
+1646389075 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f4.c
+	<stdio.h>
+	<math.h>
+
+1646411559 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\f4nde.c
+	<stdio.h>
+	<math.h>
+
+1646399811 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\g1.c
+	<stdio.h>
+	<math.h>
+
+1646403215 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\g2.c
+	<stdio.h>
+	<math.h>
+
+1646407015 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\g3.c
+	<stdio.h>
+	<math.h>
+
+1646411641 source:c:\users\asus\desktop\ifa 1\semestre 2\analyse numérique\projet1\projet1annu\g4.c
+	<stdio.h>
+	<math.h>
+

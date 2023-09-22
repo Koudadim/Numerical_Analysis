@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet1AnNu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet1AnNu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet1AnNu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Dichotomie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Newton.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PointFixe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Secante.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f1nde.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f2nde.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f3nde.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f4nde.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="g1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="g2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="g3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="g4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
